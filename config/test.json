@@ -1,0 +1,12 @@
+{
+  "DBHost": "mongodb://localhost:27017/jhakaas_test",
+  "smsgateway": "https://smsleads.in/pushsms.php",
+  "username_field": "username",
+  "username": "jhakaas",
+  "password_field": "password",
+  "password": "Goodluck",
+  "message_field": "message",
+  "sender_field": "sender",
+  "sender": "JHAKAS",
+  "number_field": "numbers"
+}
